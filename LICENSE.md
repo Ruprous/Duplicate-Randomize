@@ -1,4 +1,4 @@
-# License
+# Custom MIT-like License（with bl_info protection）
 
 Copyright (c) 2024 Ruprous  
 
