@@ -2,6 +2,9 @@
 
 Duplicate Randomizeは、オブジェクトを選択し数と範囲を指定して範囲内にランダムに配置できるアドオンです。`Duplicate_Randomize.py`をプリファレンスからインストールし、チェックボックスで有効化すると使えるようになります。
 
+## English
+📄 [Click here for the English README](./README-EN.md)
+
 ## 使い方
 
 1. **複製・ランダム配置したいオブジェクトを選択**した状態で`n`キーを押し、ツールバーからツールを選択します。
